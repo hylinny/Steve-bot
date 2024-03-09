@@ -92,34 +92,3 @@ The /mount operation can be cancelled by calling `/cancel`.
 
 #### /help
 This command prints out a list of available commands for the user to execute, along with a quirky message randomly chosen from a list of expressions.
-
-### Future Updates
-- Set reminder for events, with options to update a day before, hour before, or custom update.
-- Integrate OpenAI's various models.
-- Introduce the demo trading account from Finance.
-
-
-### Resources used:
-https://core.telegram.org/bots/features#commands
-
-https://github.com/python-telegram-bot/python-telegram-bot/wiki/Introduction-to-the-API
-
-https://docs.python-telegram-bot.org/en/stable/telegram.callbackquery.html
-
-Examples: 
-https://docs.python-telegram-bot.org/en/stable/examples.html
-
-Examples github version: 
-https://github.com/python-telegram-bot/python-telegram-bot/tree/master/examples
-
-Bot hosting: 
-https://www.youtube.com/watch?v=2TI-tCVhe9k
-
-Introductory video: 
-https://www.youtube.com/watch?v=vZtm1wuA2yc
-
-Profile pic:
-https://www.craiyon.com/image/SZE9tExFSbqb4cKUBd6FEA
-
-Exceptions handling:
-https://github.com/python-telegram-bot/python-telegram-bot/wiki/Exceptions%2C-Warnings-and-Logging
