@@ -1,0 +1,11 @@
+# File with OpenAI API key
+**/apikey.env
+
+# Ignore the entire directory named miscellaneous and its contents
+**/miscellaneous/
+
+**/.venv/
+**/__pycache__/
+**/photo.webp
+
+# **/ matches all directories and their contents recursively, and at any level within the directory structure of the repository
